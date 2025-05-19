@@ -1,3 +1,0 @@
-1 skyrius .Git commit per github
-
-Sukuriam pirma git commita per github svetaine
